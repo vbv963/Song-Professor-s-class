@@ -1,4 +1,4 @@
-﻿using Photon.Pun;
+﻿ using Photon.Pun;
 using UnityEngine;
 using UnityEngine.UI; // UI 관련 코드
 

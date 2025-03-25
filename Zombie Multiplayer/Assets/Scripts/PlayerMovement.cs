@@ -1,4 +1,4 @@
-﻿using Photon.Pun;
+﻿                     using Photon.Pun;
 using UnityEngine;
 
 // 플레이어 캐릭터를 사용자 입력에 따라 움직이는 스크립트
